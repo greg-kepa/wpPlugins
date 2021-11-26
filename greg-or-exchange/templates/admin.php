@@ -1,0 +1,1 @@
+<h1>Exchange rate plugin</h1>

@@ -1,0 +1,19 @@
+{
+  "name": "grzegorz/greg-or-exchange",
+  "description": "Greg-OR exchange rate plugin for WordPress",
+  "type": "project",
+  "license": "GPL",
+  "autoload": {
+    "psr-4": {
+      "GregOrPlugin\\GregOrExchange\\": "./src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "grzegorz",
+      "email": "greg.kepa@vp.pl"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
